@@ -1,0 +1,38 @@
+body {
+  background-color: #eaceb4;
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  text-align: center;
+  font-weight: 300;
+}
+h2 {
+  text-align: center;
+  border: none;
+  border-radius: 20px;
+  background-color: #f2e9d0;
+  margin: 20px 70px;
+}
+.input {
+  font-size: large;
+  color: rgb(215, 215, 215);
+  border: none;
+  border-radius: 20px;
+  padding: 15px 70px;
+}
+.submit {
+  border-radius: 20px;
+  border: none;
+  background-color: #eaceb4;
+  font-size: large;
+  padding: 10px 25px;
+  color: #fff;
+}
+p {
+  font-size: small;
+  font-weight: lighter;
+}
+footer {
+  text-align: center;
+  font-weight: 300;
+}
